@@ -63,7 +63,7 @@ Users interact with the app by typing in letters on their keyboard. Correct lett
 
 ### Approach
 
-The requirements were to use `constructors` to create this app, but I chose to use `classes` instead and make the app **object oriented**. The `Word` class uses the `Letter` class to display correctly guessed letters. The main **app.js** file uses the `Word` class to generate word objects to be guessed. **Inquirer** is used to provide an interface to the user. **Console style** is used style the output.
+The requirements were to use `constructors` to create this app, but I chose to use `classes` instead and make the app **object oriented**. The `Word` class uses the `Letter` class to display correctly guessed letters. The main **app.js** file uses the `Word` class to generate word objects to be guessed. **FS (File System)** is used to read words from a txt file. **Inquirer** is used to provide an interface to the user. **Console style** is used style the output.
 
 ## Built With
 
