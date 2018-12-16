@@ -26,7 +26,6 @@ const runGame = () => {
     let randomNum = Math.floor(Math.random() * wordsArray.length);
     let randomWord = wordsArray.splice(randomNum, 1)[0];
     let wordToGuess = new Word(randomWord);
-      console.log(wordToGuess.wordToGuess);
     handleGuess(wordToGuess);
 }
 
