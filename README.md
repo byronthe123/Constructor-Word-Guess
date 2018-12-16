@@ -52,7 +52,7 @@ node app.js
 
 ### Demo:
 
-![Alt Text](https://github.com/byronthe123/liri-bot/blob/master/LiriGIF.gif)
+![Alt Text](https://github.com/byronthe123/Constructor-Word-Guess/blob/master/GIF.gif)
 
 Users interact with the app by typing in letters on their keyboard. Correct letters guessed will be revaled to the users while un-guessed letter are displayed as underscores.
 
